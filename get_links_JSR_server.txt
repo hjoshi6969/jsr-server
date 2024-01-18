@@ -1,0 +1,64 @@
+Welcome endpoint
+
+URL: /
+Method: GET
+Get all users
+
+URL: /users
+Method: GET
+Get user by ID
+
+URL: /user/:userId
+Method: GET
+Get all products
+
+URL: /products
+Method: GET
+Get product by ID
+
+URL: /product/:productID
+Method: GET
+Get all status
+
+URL: /status
+Method: GET
+Get status by ID
+
+URL: /status/:statusID
+Method: GET
+Get all orders
+
+URL: /orders
+Method: GET
+Get order by ID
+
+URL: /order/:orderID
+Method: GET
+Get all invoices
+
+URL: /invoice
+Method: GET
+Get invoice by ID
+
+URL: /invoice/:invoiceID
+Method: GET
+Get all categories
+
+URL: /categories
+Method: GET
+Get category by ID
+
+URL: /category/:categoryID
+Method: GET
+Get all addresses
+
+URL: /addresses
+Method: GET
+Get address by ID
+
+URL: /address/:addressID
+Method: GET
+Start the server
+
+URL: http://localhost:7000
+Method: GET (default welcome message)
